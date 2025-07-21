@@ -75,16 +75,16 @@ function Navbar() {
 
   const socialLinks = [
     {
-      to: "https://github.com/itsmohit097/medi-hub",
+      to: "https://github.com/s-hub-ham/Hospital_Management_System.git",
       label: "github",
       icon: FaGithub,
     },
     {
-      to: "https://www.linkedin.com/in/itsmohit097/",
+      to: "https://www.linkedin.com/in/shubham-singh-02026a251/",
       label: "linkedin",
       icon: FaLinkedinIn,
     },
-    { to: "https://discord.gg/krQd2Fss", label: "discord", icon: FaDiscord },
+    { to: "https://www.linkedin.com/in/shubham-singh-02026a251/", label: "discord", icon: FaDiscord },
   ];
 
   return (
